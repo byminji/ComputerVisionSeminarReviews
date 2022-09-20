@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}\itemsep=-1pt
+
+\bibitem{vit}
+A.~Dosovitskiy, et~al.
+\newblock An image is worth 16x16 words: Transformers for image recognition at
+  scale.
+\newblock In {\em ICLR}, 2021.
+
+\bibitem{transformer}
+A.~Vaswani, et~al.
+\newblock Attention is all you need.
+\newblock In {\em NeurIPS}, 2017.
+
+\end{thebibliography}
