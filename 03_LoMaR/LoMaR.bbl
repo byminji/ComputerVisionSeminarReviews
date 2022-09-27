@@ -1,0 +1,19 @@
+\begin{thebibliography}{1}\itemsep=-1pt
+
+\bibitem{beit}
+H.~Bao, et~al.
+\newblock Beit: Bert pre-training of image transformers.
+\newblock {\em arXiv preprint arXiv:2106.08254}, 2021.
+
+\bibitem{lomar}
+J.~Chen, et~al.
+\newblock Efficient self-supervised vision pretraining with local masked
+  reconstruction.
+\newblock {\em arXiv preprint arXiv:2206.00790}, 2022.
+
+\bibitem{mae}
+K.~He, et~al.
+\newblock Masked autoencoders are scalable vision learners.
+\newblock In {\em CVPR}, 2022.
+
+\end{thebibliography}
