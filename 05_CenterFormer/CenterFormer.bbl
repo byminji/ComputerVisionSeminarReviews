@@ -1,0 +1,25 @@
+\begin{thebibliography}{1}\itemsep=-1pt
+
+\bibitem{detr}
+N.~Carion, et~al.
+\newblock End-to-end object detection with transformers.
+\newblock In {\em ECCV}, 2020.
+
+\bibitem{yin2021center}
+T.~Yin, et~al.
+\newblock Center-based 3d object detection and tracking.
+\newblock In {\em Proceedings of the IEEE/CVF conference on computer vision and
+  pattern recognition}, pages 11784--11793, 2021.
+
+\bibitem{centerformer}
+Z.~Zhou, et~al.
+\newblock Centerformer: Center-based transformer for 3d object detection.
+\newblock In {\em ECCV}, 2022.
+
+\bibitem{deformabledetr}
+X.~Zhu, et~al.
+\newblock Deformable detr: Deformable transformers for end-to-end object
+  detection.
+\newblock {\em arXiv preprint arXiv:2010.04159}, 2020.
+
+\end{thebibliography}
